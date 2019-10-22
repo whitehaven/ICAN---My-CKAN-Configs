@@ -1,0 +1,440 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the portable KSP instance",
+	"name": "installed-portable",
+	"license": "unknown",
+	"version": "2019.10.22.04.41.38",
+	"identifier": "installed-portable",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "SmartStage"
+		},
+		{
+			"name": "SmartTank"
+		},
+		{
+			"name": "ProceduralParts-Textures-SCCKSCS"
+		},
+		{
+			"name": "ProceduralParts-Textures-SaturnNova"
+		},
+		{
+			"name": "VensStylePPTextures"
+		},
+		{
+			"name": "MainSailorTextures-Complete"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "CCTV"
+		},
+		{
+			"name": "unBlur"
+		},
+		{
+			"name": "AVP-4kTextures"
+		},
+		{
+			"name": "ProceduralParts"
+		},
+		{
+			"name": "MainSailorTextures-Essentials"
+		},
+		{
+			"name": "BetterTimeWarpCont"
+		},
+		{
+			"name": "Kartographer"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "ContractConfigurator"
+		},
+		{
+			"name": "TransferWindowPlanner"
+		},
+		{
+			"name": "JSIPartUtilities"
+		},
+		{
+			"name": "ReStock"
+		},
+		{
+			"name": "ReStockPlus"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "KVVContinued"
+		},
+		{
+			"name": "PartCommanderCont"
+		},
+		{
+			"name": "GroundConstruction-Core"
+		},
+		{
+			"name": "ConfigurableContainers-Core"
+		},
+		{
+			"name": "AT-Utils"
+		},
+		{
+			"name": "GroundConstruction"
+		},
+		{
+			"name": "ConfigurableContainers"
+		},
+		{
+			"name": "Goodspeed"
+		},
+		{
+			"name": "ThrottleControlledAvionics"
+		},
+		{
+			"name": "CriticalTemperatureGauge"
+		},
+		{
+			"name": "CritterCrawler"
+		},
+		{
+			"name": "KSPWheel"
+		},
+		{
+			"name": "BDAnimationModules"
+		},
+		{
+			"name": "KS3P"
+		},
+		{
+			"name": "RCSBuildAidCont"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "WindTunnel"
+		},
+		{
+			"name": "CraftManager"
+		},
+		{
+			"name": "KXAPI"
+		},
+		{
+			"name": "FuseBoxContinued"
+		},
+		{
+			"name": "DeployableEngines"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "ResonantOrbitCalculator"
+		},
+		{
+			"name": "Astrogator"
+		},
+		{
+			"name": "Hangar"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "GravityTurnContinued"
+		},
+		{
+			"name": "Trajectories"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "PreciseNode"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "InfernalRoboticsNext"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "KerbalXMod"
+		},
+		{
+			"name": "MiniAirbrakes"
+		},
+		{
+			"name": "NearFutureConstruction"
+		},
+		{
+			"name": "TALSphericalToroidalPack"
+		},
+		{
+			"name": "FirespitterResourcesConfig"
+		},
+		{
+			"name": "DeepSkyCore"
+		},
+		{
+			"name": "Firespitter"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "ATKPropulsionPack"
+		},
+		{
+			"name": "KIS"
+		},
+		{
+			"name": "UniversalStorage2"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "EasyVesselSwitch"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "KerbalJointReinforcementNext"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "DockingPortSoundFX"
+		},
+		{
+			"name": "BetterBurnTime"
+		},
+		{
+			"name": "FlexibleDocking"
+		},
+		{
+			"name": "InlineBallutes"
+		},
+		{
+			"name": "ManeuverQueue"
+		},
+		{
+			"name": "NavHudRenewed"
+		},
+		{
+			"name": "KramaxAutopilotContinued"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "NearFuturePropulsion"
+		},
+		{
+			"name": "NearFuturePropulsion-XenonHETs"
+		},
+		{
+			"name": "NanoGauges"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "VesselView"
+		},
+		{
+			"name": "VesselView-UI-RasterPropMonitor"
+		},
+		{
+			"name": "RasterPropMonitor"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "RasterPropMonitor-Core"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "SpaceY-Expanded"
+		},
+		{
+			"name": "SpaceY-Lifters"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "EvaFuelCont"
+		},
+		{
+			"name": "HullcamVDSContinued"
+		},
+		{
+			"name": "EVAParachutes"
+		},
+		{
+			"name": "KAS"
+		},
+		{
+			"name": "KabramsSunFlaresPack-Blue-High"
+		},
+		{
+			"name": "AstronomersVisualPack"
+		},
+		{
+			"name": "CameraTools"
+		},
+		{
+			"name": "SemioticStandard"
+		},
+		{
+			"name": "WernherCheckerContinued"
+		},
+		{
+			"name": "AnyResContinued"
+		},
+		{
+			"name": "ThorTech"
+		},
+		{
+			"name": "ThroughTheEyesOfaKerbal"
+		},
+		{
+			"name": "AtmosphereAutopilot"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "TriggerAu-Flags"
+		},
+		{
+			"name": "PoodsMilkyWaySkybox"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "SCANsat"
+		},
+		{
+			"name": "Kaboom"
+		},
+		{
+			"name": "AutoAsparagus"
+		},
+		{
+			"name": "KSP-AVC"
+		},
+		{
+			"name": "SpeedUnitAnnex"
+		},
+		{
+			"name": "EVAEnhancementsContinued"
+		},
+		{
+			"name": "CameraFocusChanger"
+		},
+		{
+			"name": "Toolbar"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "BSGEnlistedRanksGreyFinalFrontierAddOn"
+		},
+		{
+			"name": "BSGEnlistedRanksRedFinalFrontierAddOn"
+		},
+		{
+			"name": "BSGOfficerRanksFinalFrontierAddOn"
+		},
+		{
+			"name": "FinalFrontier"
+		},
+		{
+			"name": "ScienceRolesFinalFrontierRibbonPack"
+		},
+		{
+			"name": "STMsFFRibbonPackEngineeringRoles"
+		},
+		{
+			"name": "STMsFFRibbonPackEnlistedRanks"
+		},
+		{
+			"name": "STMsFFRibbonPackExpeditionRibbons"
+		},
+		{
+			"name": "STMsFFRibbonPackNavalOfficerRanks"
+		},
+		{
+			"name": "STMsFFRibbonPackOfficerRanks"
+		},
+		{
+			"name": "STMsFFRibbonPackOperationsRoles"
+		},
+		{
+			"name": "STMsFFRibbonPackWarrantOfficerRanks"
+		},
+		{
+			"name": "USAFEnlistedRanksFINALFRONTIERADDON"
+		},
+		{
+			"name": "USArmyEnlistedRanksFinalFrontierAddOn"
+		},
+		{
+			"name": "USMCEnlistedRanksFINALFRONTIERADDON"
+		},
+		{
+			"name": "USNavyEnlistedRanksFinalFrontierAddOn"
+		},
+		{
+			"name": "USOfficerRanksNavalFinalFrontierAddOn"
+		},
+		{
+			"name": "USOfficerRanksStandardFinalFrontierAddOn"
+		}
+	]
+}
